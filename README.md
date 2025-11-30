@@ -5,7 +5,7 @@ This [demonstration project](https://github.com/camunda/camunda-8-get-started) a
 ## Download Demonstration Project
 
 ```bash
-git clone https://github.com/camunda/camunda-8-get-started.git
+git clone https://github.com/devtovn/camunda8-started.git
 ```
 
 ## Download Camunder Modeler
